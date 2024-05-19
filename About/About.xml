@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Hot reload translations</name>
+	<packageId>Rakros.HotReloadTranslations</packageId>
+	<author>Rakros</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+	</modDependencies>
+	<description>Implements a debug action that hot reloads translations.
+		A fair warning: occasionally the game caches translated strings. Finding all of them and clearing them will be the most tedious part.
+		If you find a string that doesn't get changed after hot reload please let me know.
+	</description>
+</ModMetaData>
